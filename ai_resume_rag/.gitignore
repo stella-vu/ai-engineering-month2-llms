@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local documents / private resumes
+docs/
+sample_docs/
+*.pdf
+*.docx
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
