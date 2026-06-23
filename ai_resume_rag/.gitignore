@@ -9,10 +9,8 @@ venv/
 .streamlit/secrets.toml
 
 # Local documents / private resumes
-docs/
-sample_docs/
-*.pdf
-*.docx
+docs/*
+!docs/sample_warehouse_resume.docx
 
 # macOS
 .DS_Store
