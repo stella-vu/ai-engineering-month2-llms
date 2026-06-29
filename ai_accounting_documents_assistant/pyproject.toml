@@ -1,0 +1,12 @@
+[project]
+name = "ai-documents-qdrant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain-text-splitters>=1.1.2",
+    "ollama>=0.6.2",
+    "pymupdf>=1.27.2.3",
+    "qdrant-client>=1.18.0",
+]
